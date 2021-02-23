@@ -1,5 +1,5 @@
 # Sabrina Topel
 
-## Olá pessoal 👋
+## Oi gente, sou a Sabrina 👋
 
-I'm currently a computer science student in Brazil. Programming in java, but I'm dedicating myself to JS (more precise with ReactJS + NodeJS).
+Atualmente sou estudante de CCO, amante de Java, mas indo em direção para JS.
