@@ -1,5 +1,5 @@
 ### Olá! Sou a Sabrina 🦁 
- - 👨‍💻 Hoje trabalho com Full Stack, mas meu foco é Back-End. 
+ - 👨‍💻 Trabalho com Full Stack, mas meu foco é Back-End. 
  - ✍️ Estudando Python
 
 
