@@ -7,6 +7,7 @@
 ![Sabrina GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinatopel&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinatopel&langs_count=8)](https://github.com/sabrinatopel/github-readme-stats)
 
+
 ### 🚀Tecnologias que eu utilizo
 
 <div style="display: inline_block">
