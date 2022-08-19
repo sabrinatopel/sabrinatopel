@@ -1,7 +1,5 @@
 ### Oi, gente!   <img alt="python" width=20 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" align="center">
- - 🦁 Meu nome é Sabrina e sou desenvolvedora.
- - 👨‍💻 Trabalho com Full Stack, mas meu foco agora é Back-End. 
- - ✍️ Estudando Python.
+ - 🦁 Meu nome é Sabrina 
 
 
 ![Sabrina GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinatopel&show_icons=true&theme=synthwave)
